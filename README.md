@@ -70,4 +70,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true&radius=8" width="100%">
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
+⭐️ From [Bishwaprotap Ray](https://github.com/Bishwaprotapi/)
