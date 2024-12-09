@@ -16,7 +16,7 @@
   <h3>👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
   <p>
     • 📱 Android Application Developer with 2+ years of experience in designing and developing mobile apps using Java, Kotlin, and modern Android SDKs<br>
-    • 🤖 Aspiring Machine Learning/AI Engineer with expertise in data science, deep learning, and NLP<br>
+    • 🤖 Aspiring Machine Learning/AI Engineer with expertise in data science.<br>
     • 🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT<br>
     • 💡 Always eager to learn and explore new technologies<br>
     • 🌟 Passionate about creating innovative solutions
