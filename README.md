@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
@@ -52,7 +51,39 @@ F --> G[Deployment]
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
----
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bishwaprotapi&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bishwaprotapi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bishwaprotapi&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bishwaprotapi&theme=tokyonight&utcOffset=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bishwaprotapi&theme=tokyonight&no-frame=true&row=1" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
+
 
 ## 📊 Massive Visualization Dashboard
 
@@ -98,6 +129,20 @@ F --> G[Deployment]
 </p>
 
 ---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Bishwaprotapi&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bishwaprotapi&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bishwaprotapi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwaprotapi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bishwaprotapi&theme=tokyonight&no-frame=true&row=1"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 <div align="center">
 
