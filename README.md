@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bishwaprotap+Ray;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Data+Science+Enthusiast;Building+AI+Systems+with+Code+%26+Data" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there!;I'm+Bishwaprotap+Ray;Aspiring+AI+Engineer;Machine+Learning+Deep+Learning;Data+Science+Enthusiast;Building+AI+Systems+with+Code+and+Data" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Aspiring-00C2FF?style=for-the-badge"/>
