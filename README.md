@@ -2,121 +2,105 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bishwaprotap+Ray;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Data+Science+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bishwaprotap+Ray;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Data+Science+Enthusiast;Building+AI+Systems+with+Code+%26+Data" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Aspiring-00C2FF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-00C2FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-00C2FF?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-Aspiring-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-00C2FF?style=for-the-badge"/>
 </p>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-## 🧠 About Me | AI Engineer Focus
+## 🧠 About Me
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 
-I am an **Aspiring AI Engineer** with a strong foundation in **Machine Learning, Deep Learning, and Data Science**.  
-My goal is to **design intelligent systems** that learn from data, make predictions, and solve real-world problems.
-
-- 🔹 Strong interest in **ML research & applied AI**
-- 🔹 Experience with **end-to-end ML pipelines**
-- 🔹 Passionate about **model optimization & visualization**
-- 🔹 Actively working on **research-oriented ML projects**
-
-🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
-📍 **International University of Business Agriculture & Technology (IUBAT)**
+I am an **Aspiring AI Engineer** focused on **Machine Learning, Deep Learning, and Data Science**.  
+I enjoy transforming **raw data into intelligent systems** using algorithms, models, and visual insights.
 
 ---
 
-## 🤖 AI / ML Workflow
+## 🤖 AI / ML Workflow (Animated)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 
 ```mermaid
 flowchart LR
-A[Data Collection] --> B[Data Cleaning]
-B --> C[EDA & Visualization]
-C --> D[Feature Engineering]
-D --> E[Model Training]
-E --> F[Evaluation & Tuning]
-F --> G[Deployment / Research]
+A[Data] --> B[Cleaning]
+B --> C[EDA]
+C --> D[Features]
+D --> E[Training]
+E --> F[Evaluation]
+F --> G[Deployment]
 ```
 
 ---
 
-## 🛠️ AI Tech Stack
+## 🛠️ Programming Languages
 
-### 🔹 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### 🔹 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-### 🔹 Data Science & Visualization
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
-### 🔹 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Massive Visualization Dashboard
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bishwaprotapi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwaprotapi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</div>
-
----
-
-## 📈 Contribution & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishwaprotapi&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['ML','DL','DS','Python','Research'],datasets:[{data:[30,25,20,15,10]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Java','C','C++','C#'],datasets:[{data:[35,20,15,20,10]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['EDA','Features','Training','Tuning','Deploy'],datasets:[{data:[20,20,25,20,15]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['CV','NLP','Tabular','TimeSeries'],datasets:[{data:[30,25,30,15]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Research','Projects','Study','Practice'],datasets:[{data:[25,30,25,20]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Supervised','Unsupervised','RL'],datasets:[{data:[60,30,10]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['CNN','RNN','Transformers'],datasets:[{data:[40,30,30]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Accuracy','Precision','Recall','F1'],datasets:[{data:[25,25,25,25]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Linux','Windows'],datasets:[{data:[70,30]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Git','Docker','Cloud'],datasets:[{data:[50,30,20]}]}}"/>
 
 ---
 
-## 🤝 Connect With Me
 
-<div align="center">
-  <a href="mailto:bishwaprotapray458@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bishwaprotap-ray">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Bishwaprotapi">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Python','Java','C','C++','C#'],datasets:[{data:[90,75,65,80,70]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['ML','DL','DS','SQL'],datasets:[{data:[85,80,75,70]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['NumPy','Pandas','Sklearn','TensorFlow','PyTorch'],datasets:[{data:[90,85,80,75,80]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['EDA','Modeling','Deploy'],datasets:[{data:[85,80,70]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Accuracy','Speed','Scalability'],datasets:[{data:[80,75,70]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['CV','NLP','TS'],datasets:[{data:[80,75,70]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Research','Projects','Competitions'],datasets:[{data:[70,85,65]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Git','Docker','CI/CD'],datasets:[{data:[80,60,55]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Linux','Cloud','API'],datasets:[{data:[75,65,60]}]}}"/>
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Math','Stats','LinearAlg'],datasets:[{data:[80,75,70]}]}}"/>
+
+---
+
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="180"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="180"/>
+</p>
 
 ---
 
 <div align="center">
 
-⭐ **Building intelligent systems, one model at a time.**
+⭐ **Building intelligent systems with data, models & visualization** ⭐
 
 </div>
 
